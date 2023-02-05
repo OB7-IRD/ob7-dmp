@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ob7 – Data Management Plan",
+    "section": "",
+    "text": "Colophon\nDistributions of this data management plan:\n\nLatest version (website): https://ob7-ird.github.io/ob7-dmp/\nLatest version (pdf): https://ob7-ird.github.io/ob7-dmp/ob7-dmp.pdf\nLatest version (source files): https://github.com/ob7-ird/ob7-dmp\nPeriodically archived version (pdf): to be deposited on Zenodo.org\n\nSuggested citation for the latest version: > TDD"
+  },
+  {
+    "objectID": "src/01_introduction.html",
+    "href": "src/01_introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Guillou et al. (2022)\n\n\n\n\nGuillou, Aurelie, Nathalie Bodin, Emmanuel Chassot, Antoine Duparc, Théotime Fily, Philippe Sabarros, Mathieu Depetris, et al. 2022. “Tunabio: Biological Traits of Tropical Tuna and Bycatch Species Caught by Purse Seine Fisheries in the Western Indian and Eastern Central Atlantic Oceans.” Biodiversity Data Journal 10 (July): e85938. https://doi.org/10.3897/BDJ.10.e85938."
+  },
+  {
+    "objectID": "src/references.html",
+    "href": "src/references.html",
+    "title": "References",
+    "section": "",
+    "text": "Guillou, Aurelie, Nathalie Bodin, Emmanuel Chassot, Antoine Duparc,\nThéotime Fily, Philippe Sabarros, Mathieu Depetris, et al. 2022.\n“Tunabio: Biological Traits of Tropical Tuna and Bycatch Species\nCaught by Purse Seine Fisheries in the Western Indian and Eastern\nCentral Atlantic Oceans.” Biodiversity Data Journal 10\n(July): e85938. https://doi.org/10.3897/BDJ.10.e85938."
+  }
+]
