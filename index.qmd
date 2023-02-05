@@ -1,0 +1,11 @@
+# Colophon {.unnumbered}
+
+Distributions of this data management plan:
+
+- Latest version (website): <https://ob7-ird.github.io/ob7-dmp/>
+- Latest version (pdf): <https://ob7-ird.github.io/ob7-dmp/ob7-dmp.pdf>
+- Latest version (source files): <https://github.com/ob7-ird/ob7-dmp>
+- Periodically archived version (pdf): _to be deposited on Zenodo.org_
+
+Suggested citation for the latest version:
+> TDD

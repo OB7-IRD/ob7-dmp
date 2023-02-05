@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  cover-image: cover.png
+  title: "Ob7 -- Data Management Plan"
+  author: "Julien Lebranchu"
+  search: true
+  downloads: [pdf]
+  date: last-modified
+  date-format: iso #D MMMM, YYYY
+  chapters:
+    - index.qmd
+    - src/01_introduction.qmd
+    - src/references.qmd
+
+bibliography: src/references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
